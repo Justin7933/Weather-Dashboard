@@ -18,11 +18,11 @@ span.severe{
 
 span.moderate{
     padding: 3px;
-    background-color: yellow;
+    background-color: orange;
 }
 
 span.favorable{
     padding: 3px;
-    background-color: green;
+    background-color: blueviolet;
     color:white;
 }
